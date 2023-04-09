@@ -1,4 +1,5 @@
 import FirstComponent from './FirstComponent';
 import SecondComponent from './SecondComponent';
+import CustomDivider from './CustomDivider';
 
-export {FirstComponent, SecondComponent};
+export {FirstComponent, SecondComponent, CustomDivider};
